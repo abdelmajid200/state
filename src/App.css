@@ -1,0 +1,31 @@
+.App{
+    width: 15%;
+    height: 70%; 
+    
+    margin: 101px auto auto auto;
+    border-radius: 8px;
+    box-shadow: 8px;
+    /*------*/
+    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+
+                border: 1px solid #0e0303; 
+                box-shadow: 200px 200px 500px rgba(148, 142, 18, 0.1); 
+
+
+}
+
+.title{
+margin: auto;
+width: 290px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 9px;
+}
+button{
+    background-color: #cacb8a;
+    border-radius: 6px;
+    border:1px solid rgb(18, 16, 16);
+}
